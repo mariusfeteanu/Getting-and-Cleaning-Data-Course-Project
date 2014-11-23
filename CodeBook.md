@@ -88,6 +88,8 @@ For each subject and activity we calculated the <b>mean of a subset of the varia
 65. fBodyBodyGyroJerkMag-mean()
 66. fBodyBodyGyroJerkMag-std()
 
+For the descriptions of the variables see the original read me from the zip archive. This codebook only presents transformation done.
+
 In the end we calculate means for each of the above variables for each subject and activity.
 
 The final data set has 68 columns (Subject, Activity and 66 variables) and 180 rows (for each combination of Subject and Activity). This data set is saved in the <b>summarized.txt</b> file.
