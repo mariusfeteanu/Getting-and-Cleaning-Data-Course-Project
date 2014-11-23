@@ -10,12 +10,12 @@ Each row in the output file represents a combination of subject and activity.
 
 <b>Activities</b> are identified from the activity_labels.txt file:
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 From 30 subjects and 6 activities we get 180 rows in the output file. 
 
